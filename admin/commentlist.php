@@ -13,7 +13,6 @@ include_once '../model/muser.php';
 // 	$del_prod = product::del_prod($id);
 // }
 ?>
-
 <div class="grid_10">
     <div class="box round first grid">
         <h2>Danh sách bình luận </h2>
